@@ -1,0 +1,43 @@
+# Build and Clean directories
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+[Oo]bj/
+[Pp]ublish/
+
+# IDE files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.err
+
+# Package files
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage reports
+[Cc]overage/
+*.coverage
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Runtime data
+*.runtimeconfig.json
